@@ -1,6 +1,6 @@
 # bol
 
-The [Spring Boot](https://projects.spring.io/spring-boot/) backend for [mancalive](https://secure-cliffs-35079.herokuapp.com/auth), a realtime mancala experiment.
+The [Spring Boot](https://projects.spring.io/spring-boot/) backend, a realtime mancala experiment.
 
 ## TOC
 - [Requirements](#requirements)
@@ -31,7 +31,7 @@ java -jar target/bol-0.0.1-SNAPSHOT.jar
 #### Frontend code repository
 The project contains the "built" frontend code in `src/main/resources/static`.
 
-The frontend code repository is [here](https://github.com/lifenautjoe/bol-www/).
+The frontend code repository is [here](https://github.com/denis554/bol-www/).
 
 ## License
 
@@ -39,4 +39,4 @@ MIT
 
 ## Author
 
-Joel Hernández ([@lifenautjoe](www.lifenautjoe.com))
+Joel Hernández ([@denis](www.blockdevtechnologies.com))
