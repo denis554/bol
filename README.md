@@ -39,4 +39,4 @@ MIT
 
 ## Author
 
-Joel Hernández ([@denis](www.blockdevtechnologies.com))
+Denis Ignatenko ([@denis](www.blockdevtechnologies.com))
